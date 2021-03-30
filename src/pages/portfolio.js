@@ -1,11 +1,13 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
+import ProjectList from '../components/Portfolio/projectList';
 
 const portfolio = () => {
     return (
-        <div>
+        <div className="portfolio">
             <Navigation/>
-            ce ci est le portfolio!!!
+            <ProjectList/>
+            
         </div>
     );
 };
