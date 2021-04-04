@@ -67,7 +67,7 @@
     }
     ul {
       height: 72%;
-      width: inherit;
+      /*width: inherit;*/
       display: grid;
       margin-top: 3.5rem;
 
@@ -77,7 +77,7 @@
 
       i {
         font-size: 1.4rem;
-        position: absolute;
+        /*position: absolute;*/
         transform: translateY(2px);
         color: $color-2;
       }
