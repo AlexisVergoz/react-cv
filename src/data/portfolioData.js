@@ -4,16 +4,16 @@ export const portfolioData = [
     name: 'Start bootstrap',
     languages: ['html','css'],
     languagesIcons: ['lab la-html5','lab la-css3'],
-    source: 'http://www.github.com',
-    info: 'Réalisation d\'une maquette avec HTML et css, exercice réalisé au début de la formation',
-    picture: './media/project1..png'
+    source: 'https://github.com/AlexisVergoz/StartBootstrap',
+    info: 'Réalisation d\'une maquette en HTML/CSS, exercice réalisé au début de la formation',
+    picture: './media/index.png'
   },
   {
     id: 2,
-    name: 'e-commerce',
+    name: 'E-commerce',
     languages: ['html','css'],
     languagesIcons: ['lab la-html5','lab la-css3'],
-    source: 'http://www.github.com',
+    source: 'https://github.com/AlexisVergoz/E-shop',
     info: 'Première evaluation, mise en oeuvre des langages HTML et CSS',
     picture: './media/eval_1.png'
   },
@@ -22,8 +22,8 @@ export const portfolioData = [
     name: 'RentCars',
     languages: ['javascript','css'],
     languagesIcons: ['lab la-js-square','lab la-css3'],
-    source: 'http://www.github.com',
-    info: 'Deuxième evaluation, mise en oeuvre de Bootstrap et javascript, site responsive',
+    source: 'https://github.com/AlexisVergoz/RentCars',
+    info: 'Deuxième evaluations, mise en oeuvre du responsive avec JavaScript',
     picture: './media/eval_2.png'
   },
   {
@@ -31,8 +31,8 @@ export const portfolioData = [
     name: 'BeerApp',
     languages: ['javascript','angular','css'],
     languagesIcons: ['lab la-js-square','lab la-angular','lab la-css3'],
-    source: 'http://www.github.com',
-    info: 'Réalisation d\'une application de bière avec une API, exercice réalisé au cour de la formation',
+    source: 'https://github.com/AlexisVergoz/BeerApplication',
+    info: 'Réalisation d\'une application de bière avec une API, exercice réalisé avec Angular (TypeScript) au cour de la formation',
     picture: './media/project4.JPG'
   },
   {
@@ -40,13 +40,13 @@ export const portfolioData = [
     name: 'CV Vergoz Alexis',
     languages: ['react','javascript'],
     languagesIcons: ['lab la-react','lab la-css3','lab la-js-square'],
-    source: 'http://www.github.com',
-    info: 'CV réalisé entièrement en React et en autonomie',
-    picture: './media/project5.JPG'
+    source: 'https://github.com/AlexisVergoz/react-cv',
+    info: 'CV réalisé entièrement en React et en SCSS',
+    picture: './media/alexisvergoz.JPG'
   },
   {
     id: 6,
-    name: 'test.io',
+    name: 'Test.io',
     languages: ['javascript','php', 'css'],
     languagesIcons: ['lab la-html5','lab la-css3','lab la-php'],
     source: 'http://www.github.com',
