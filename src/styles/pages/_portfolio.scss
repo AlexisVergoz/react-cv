@@ -115,9 +115,10 @@
       h3 {
         grid-area: 2;
         font-family: $font-2;
-        font-size: 1.65rem;
+        font-size: 1.45rem;
         @include verticalCenter;
-        justify-content: left;
+        justify-content: center;
+        color:#050A30;
   
       }
       img {
