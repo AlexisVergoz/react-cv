@@ -14,8 +14,8 @@ const Experience = () => {
                 <h4>Développeur Web Full-Stack</h4>
                 <h5>2021</h5>
                 <p>
-                Titre RNCP Développeur Web et Web Mobile (niveau 5 équivalent BAC +2) Deux certificats CNCP (Commission Nationale de la Certification Professionnelle) :
-                Techniques de Développement web et Techniques d’Intégration Web.
+                Formation intensive et diplômante en développement web et web mobile : langages Front-End et Back-End, framework et librairies, CMS, SEO, UI/UX design …
+                Titre RNCP niveau III – Développeur Web et Web mobile.
                 </p>
             </div>
          
