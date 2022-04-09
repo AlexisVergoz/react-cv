@@ -6,7 +6,7 @@ const OtherSkills = () => {
             <h3>Autres compétences</h3>
             <div className="list">
                 <ul>
-                    <li><i className="las la-check-square"></i>Anglais</li>
+                    <li><i className="las la-check-square mr-2"></i>Anglais</li>
                     <li><i className="las la-check-square"></i>Espagnol</li>
                     <li><i className="las la-check-square"></i>GitHub</li>
                     <li><i className="las la-check-square"></i>SEO</li>
