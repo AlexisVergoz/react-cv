@@ -30,7 +30,7 @@ const Navigation = () => {
                     <li>
                     <NavLink exact to="/portfolio" activeClassName="navActive">
                     <i class="las la-laptop"></i>
-                        <span>portfolio</span>
+                        <span>Portfolio</span>
                     </NavLink>
 
                     </li>
